@@ -58,7 +58,7 @@ const desktopModeProps = {
     "Flex4": {
       "callbacks": {}
     },
-    "Flex14": {
+    "Intro": {
       "callbacks": {}
     },
     "Flex22": {
@@ -85,7 +85,7 @@ const desktopModeProps = {
     "Div9": {
       "callbacks": {}
     },
-    "Flex19": {
+    "Trusted": {
       "callbacks": {}
     },
     "Flex27": {
@@ -106,10 +106,112 @@ const desktopModeProps = {
     "Div20": {
       "callbacks": {}
     },
-    "Flex20": {
+    "Service": {
+      "callbacks": {}
+    },
+    "Flex29": {
+      "callbacks": {}
+    },
+    "Div24": {
+      "callbacks": {}
+    },
+    "Div22": {
+      "callbacks": {}
+    },
+    "Div23": {
+      "callbacks": {}
+    },
+    "Flex30": {
+      "callbacks": {}
+    },
+    "Div26": {
+      "callbacks": {}
+    },
+    "Div29": {
+      "callbacks": {}
+    },
+    "Div32": {
+      "callbacks": {}
+    },
+    "Div33": {
+      "callbacks": {}
+    },
+    "Div37": {
+      "callbacks": {}
+    },
+    "Div40": {
+      "callbacks": {}
+    },
+    "Div38": {
+      "callbacks": {}
+    },
+    "Div43": {
+      "callbacks": {}
+    },
+    "Div42": {
+      "callbacks": {}
+    },
+    "Div55": {
+      "callbacks": {}
+    },
+    "Div53": {
+      "callbacks": {}
+    },
+    "Div50": {
+      "callbacks": {}
+    },
+    "Div44": {
+      "callbacks": {}
+    },
+    "Div51": {
+      "callbacks": {}
+    },
+    "Div47": {
+      "callbacks": {}
+    },
+    "Div52": {
+      "callbacks": {}
+    },
+    "Div48": {
+      "callbacks": {}
+    },
+    "Div54": {
+      "callbacks": {}
+    },
+    "Div67": {
+      "callbacks": {}
+    },
+    "Div65": {
+      "callbacks": {}
+    },
+    "Div62": {
+      "callbacks": {}
+    },
+    "Div56": {
+      "callbacks": {}
+    },
+    "Div63": {
+      "callbacks": {}
+    },
+    "Div59": {
+      "callbacks": {}
+    },
+    "Div64": {
+      "callbacks": {}
+    },
+    "Div60": {
+      "callbacks": {}
+    },
+    "Div66": {
       "callbacks": {}
     },
     "Flex21": {
+      "callbacks": {}
+    },
+    "Flex31": {
+      "callbacks": {}
+    },
+    "Flex32": {
       "callbacks": {}
     },
     "Image1": {
@@ -351,6 +453,276 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/trusted2.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox8": {
+      "custom": {
+        "text": "Design that solves problems, one product at a time."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox7": {
+      "custom": {
+        "text": "SERVICES"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image19": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/ServiceCardImage1.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox9": {
+      "custom": {
+        "text": "What I can do for you"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox10": {
+      "custom": {
+        "text": "Faster, better products that your users love. Here's all the services I provide:"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div36": {
+      "callbacks": {}
+    },
+    "TextBox11": {
+      "custom": {
+        "text": " Design Strategy"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div39": {
+      "callbacks": {}
+    },
+    "TextBox12": {
+      "custom": {
+        "text": "Web and Mobile App Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div41": {
+      "callbacks": {}
+    },
+    "TextBox13": {
+      "custom": {
+        "text": "Front-end Development"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox18": {
+      "custom": {
+        "text": "Applications I'm fluent in"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image20": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/ServiceCardImage2.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div45": {
+      "callbacks": {}
+    },
+    "TextBox14": {
+      "custom": {
+        "text": "Figma"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div46": {
+      "callbacks": {}
+    },
+    "TextBox15": {
+      "custom": {
+        "text": "Webflow"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div49": {
+      "callbacks": {}
+    },
+    "TextBox16": {
+      "custom": {
+        "text": "Sketch"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox17": {
+      "custom": {
+        "text": "Every designer needs the right tools to do the perfect job. Thankfully, I'm multilingual."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox23": {
+      "custom": {
+        "text": "What you can expect"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image21": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/ServiceCardImage3.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div57": {
+      "callbacks": {}
+    },
+    "TextBox19": {
+      "custom": {
+        "text": "Efficient and maintainable"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div58": {
+      "callbacks": {}
+    },
+    "TextBox20": {
+      "custom": {
+        "text": "Device and user friendly"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div61": {
+      "callbacks": {}
+    },
+    "TextBox21": {
+      "custom": {
+        "text": " Clean and functional"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox22": {
+      "custom": {
+        "text": "I design products that are more than pretty. I make them shippable and usable."
       },
       "callbacks": {
         "onClick": [

@@ -1,12 +1,17 @@
 .TextBox2,
-.Button29{
+.Button29,
+.TextBox7{
     background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
 }
-.TextBox2{
+.TextBox2,
+.TextBox7{
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .TextBox3,
 .TextBox2{
     letter-spacing: -2px;
+}
+.TextBox7{
+    letter-spacing: 4px;
 }
