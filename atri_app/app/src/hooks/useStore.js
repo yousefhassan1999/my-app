@@ -58,22 +58,58 @@ const desktopModeProps = {
     "Flex4": {
       "callbacks": {}
     },
-    "Flex18": {
-      "callbacks": {}
-    },
-    "Flex17": {
-      "callbacks": {}
-    },
-    "Div7": {
-      "callbacks": {}
-    },
-    "Flex16": {
-      "callbacks": {}
-    },
-    "Flex15": {
-      "callbacks": {}
-    },
     "Flex14": {
+      "callbacks": {}
+    },
+    "Flex22": {
+      "callbacks": {}
+    },
+    "Flex23": {
+      "callbacks": {}
+    },
+    "Div12": {
+      "callbacks": {}
+    },
+    "Div13": {
+      "callbacks": {}
+    },
+    "Flex24": {
+      "callbacks": {}
+    },
+    "Div14": {
+      "callbacks": {}
+    },
+    "Flex25": {
+      "callbacks": {}
+    },
+    "Div9": {
+      "callbacks": {}
+    },
+    "Flex19": {
+      "callbacks": {}
+    },
+    "Flex27": {
+      "callbacks": {}
+    },
+    "Flex28": {
+      "callbacks": {}
+    },
+    "Div17": {
+      "callbacks": {}
+    },
+    "Div18": {
+      "callbacks": {}
+    },
+    "Div19": {
+      "callbacks": {}
+    },
+    "Div20": {
+      "callbacks": {}
+    },
+    "Flex20": {
+      "callbacks": {}
+    },
+    "Flex21": {
       "callbacks": {}
     },
     "Image1": {
@@ -139,7 +175,7 @@ const desktopModeProps = {
     },
     "Button6": {
       "custom": {
-        "text": "Book a cal"
+        "text": "Book a call"
       },
       "callbacks": {
         "onClick": [
@@ -162,10 +198,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image11": {
+    "TextBox4": {
       "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/Header.svg"
+        "text": "Hi! I’m Jake, a product designer based in Berlin. I create user-friendly interfaces for fast-growing startups."
       },
       "callbacks": {
         "onClick": [
@@ -175,9 +210,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button23": {
+    "TextBox2": {
       "custom": {
-        "text": "About"
+        "text": "I design products"
       },
       "callbacks": {
         "onClick": [
@@ -187,9 +222,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button24": {
+    "TextBox3": {
       "custom": {
-        "text": "Services"
+        "text": "that delight and inspire people."
       },
       "callbacks": {
         "onClick": [
@@ -199,9 +234,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button25": {
+    "Button28": {
       "custom": {
-        "text": "Projects"
+        "text": "Book a call"
       },
       "callbacks": {
         "onClick": [
@@ -211,9 +246,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button26": {
+    "Button29": {
       "custom": {
-        "text": "Blog"
+        "text": ""
       },
       "callbacks": {
         "onClick": [
@@ -223,9 +258,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button22": {
+    "Button32": {
       "custom": {
-        "text": "Book a cal"
+        "text": "Download CV"
       },
       "callbacks": {
         "onClick": [
@@ -235,10 +270,87 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image10": {
+    "Image13": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/HeaderArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image12": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/IntroSecImage.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox6": {
+      "custom": {
+        "text": "Trusted by"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image15": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/trusted1.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image16": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/trusted3.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image17": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/trusted4.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image18": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/trusted2.png"
       },
       "callbacks": {
         "onClick": [
