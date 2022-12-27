@@ -632,38 +632,10 @@ export function useDiv22Cb() {
 }), [])
 	return { onClick }
 }
-export function useDiv23Cb() {
-	const onClick = useCallback(callbackFactory("Div23", "Home", "/", "onClick", 
-			{
-  "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
 export function useDiv24Cb() {
 	const onClick = useCallback(callbackFactory("Div24", "Home", "/", "onClick", 
 			{
   "handlers": [],
-  "actions": [
-    {
-      "type": "do_nothing"
-    }
-  ]
-}), [])
-	return { onClick }
-}
-export function useTextBox7Cb() {
-	const onClick = useCallback(callbackFactory("TextBox7", "Home", "/", "onClick", 
-			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
   "actions": [
     {
       "type": "do_nothing"
@@ -1434,6 +1406,74 @@ export function useImage21Cb() {
 }
 export function useDiv67Cb() {
 	const onClick = useCallback(callbackFactory("Div67", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useDiv68Cb() {
+	const onClick = useCallback(callbackFactory("Div68", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox24Cb() {
+	const onClick = useCallback(callbackFactory("TextBox24", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useDiv69Cb() {
+	const onClick = useCallback(callbackFactory("Div69", "Home", "/", "onClick", 
+			{
+  "handlers": [],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useTextBox25Cb() {
+	const onClick = useCallback(callbackFactory("TextBox25", "Home", "/", "onClick", 
+			{
+  "handlers": [
+    {
+      "sendEventData": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "do_nothing"
+    }
+  ]
+}), [])
+	return { onClick }
+}
+export function useDiv70Cb() {
+	const onClick = useCallback(callbackFactory("Div70", "Home", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [

@@ -177,15 +177,20 @@ padding-bottom: 80px;
 }
 .p-Home.Div24 {
 display: block;
+align-self: auto;
 }
 .p-Home.Div22 {
 margin-top: 20px;
 margin-bottom: 110px;
 max-width: 810px;
 }
-.p-Home.Div23 {
+.p-Home.Div69 {
 display: block;
-align-self: center;
+align-self: auto;
+text-align: center;
+}
+.p-Home.Div70 {
+display: inline-block;
 }
 .p-Home.Flex30 {
 display: flex;
@@ -316,6 +321,9 @@ justify-content: center;
 width: 100%;
 max-width: ;
 row-gap: ;
+}
+.p-Home.Div68 {
+;
 }
 .p-Home.Flex31 {
 display: flex;
@@ -578,8 +586,9 @@ font-family: IBM Plex Sans;
 font-size: 54px;
 font-weight: 700;
 line-height: 110%;
+text-align: center;
 }
-.p-Home.TextBox7 {
+.p-Home.TextBox25 {
 align-self: center;
 text-align: center;
 font-family: IBM Plex Sans;
@@ -775,4 +784,7 @@ font-family: IBM Plex Sans;
 font-size: 16px;
 color: #666666;
 font-weight: 500;
+}
+.p-Home.TextBox24 {
+;
 }

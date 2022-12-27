@@ -118,7 +118,10 @@ const desktopModeProps = {
     "Div22": {
       "callbacks": {}
     },
-    "Div23": {
+    "Div69": {
+      "callbacks": {}
+    },
+    "Div70": {
       "callbacks": {}
     },
     "Flex30": {
@@ -206,6 +209,9 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex21": {
+      "callbacks": {}
+    },
+    "Div68": {
       "callbacks": {}
     },
     "Flex31": {
@@ -474,7 +480,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox7": {
+    "TextBox25": {
       "custom": {
         "text": "SERVICES"
       },
@@ -723,6 +729,18 @@ const desktopModeProps = {
     "TextBox22": {
       "custom": {
         "text": "I design products that are more than pretty. I make them shippable and usable."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox24": {
+      "custom": {
+        "text": "Your text Here!"
       },
       "callbacks": {
         "onClick": [
