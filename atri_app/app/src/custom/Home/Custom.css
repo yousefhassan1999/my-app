@@ -1,10 +1,25 @@
 .TextBox2,
 .Button29,
-.TextBox25{
+.Button36,
+.TextBox25,
+.TextBox26,
+.BRANDING,
+.TextBox36,
+.TextBox38,
+.TextBox40,
+.TextBox42,
+.TextBox43{
     background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
 }
 .TextBox2,
-.TextBox25{
+.TextBox25,
+.TextBox26,
+.BRANDING,
+.TextBox36,
+.TextBox38,
+.TextBox40,
+.TextBox42,
+.TextBox43{
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -12,6 +27,20 @@
 .TextBox2{
     letter-spacing: -2px;
 }
-.TextBox25{
+.TextBox27,
+.TextBox28{
+    letter-spacing: 1px;
+}
+.TextBox25,
+.TextBox26,
+.BRANDING,
+.TextBox36,
+.TextBox38,
+.TextBox40,
+.TextBox42,
+.TextBox43{
     letter-spacing: 4px;
+}
+.Flex44{
+    right: 5%;
 }

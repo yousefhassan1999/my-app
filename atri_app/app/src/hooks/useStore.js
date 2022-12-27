@@ -208,13 +208,133 @@ const desktopModeProps = {
     "Div66": {
       "callbacks": {}
     },
-    "Flex21": {
+    "Projects": {
       "callbacks": {}
     },
-    "Div68": {
+    "Flex35": {
       "callbacks": {}
     },
-    "Flex31": {
+    "Div74": {
+      "callbacks": {}
+    },
+    "Div76": {
+      "callbacks": {}
+    },
+    "Div77": {
+      "callbacks": {}
+    },
+    "Div75": {
+      "callbacks": {}
+    },
+    "Flex43": {
+      "callbacks": {}
+    },
+    "Flex34": {
+      "callbacks": {}
+    },
+    "Flex36": {
+      "callbacks": {}
+    },
+    "Div79": {
+      "callbacks": {}
+    },
+    "Div80": {
+      "callbacks": {}
+    },
+    "Div81": {
+      "callbacks": {}
+    },
+    "Div83": {
+      "callbacks": {}
+    },
+    "Flex39": {
+      "callbacks": {}
+    },
+    "Div95": {
+      "callbacks": {}
+    },
+    "Div92": {
+      "callbacks": {}
+    },
+    "Div93": {
+      "callbacks": {}
+    },
+    "Div94": {
+      "callbacks": {}
+    },
+    "Flex40": {
+      "callbacks": {}
+    },
+    "Div99": {
+      "callbacks": {}
+    },
+    "Div96": {
+      "callbacks": {}
+    },
+    "Div97": {
+      "callbacks": {}
+    },
+    "Div98": {
+      "callbacks": {}
+    },
+    "Flex41": {
+      "callbacks": {}
+    },
+    "Div103": {
+      "callbacks": {}
+    },
+    "Div100": {
+      "callbacks": {}
+    },
+    "Div101": {
+      "callbacks": {}
+    },
+    "Div102": {
+      "callbacks": {}
+    },
+    "Flex42": {
+      "callbacks": {}
+    },
+    "Div107": {
+      "callbacks": {}
+    },
+    "Div104": {
+      "callbacks": {}
+    },
+    "Div105": {
+      "callbacks": {}
+    },
+    "Div106": {
+      "callbacks": {}
+    },
+    "Flex44": {
+      "callbacks": {}
+    },
+    "Div110": {
+      "callbacks": {}
+    },
+    "Flex45": {
+      "callbacks": {}
+    },
+    "Div112": {
+      "callbacks": {}
+    },
+    "Blog": {
+      "callbacks": {}
+    },
+    "Flex46": {
+      "callbacks": {}
+    },
+    "Div114": {
+      "callbacks": {}
+    },
+    "Div116": {
+      "callbacks": {}
+    },
+    "Div117": {
+      "callbacks": {}
+    },
+    "Div118": {
       "callbacks": {}
     },
     "Flex32": {
@@ -738,7 +858,430 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox24": {
+    "TextBox26": {
+      "custom": {
+        "text": "PROJECTS"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox27": {
+      "custom": {
+        "text": "I bring results."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox28": {
+      "custom": {
+        "text": " My clients are proof."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button35": {
+      "custom": {
+        "text": "View all projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button36": {
+      "custom": {
+        "text": "View all projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image22": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Projects1.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "BRANDING": {
+      "custom": {
+        "text": "BRANDING"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Soulful_Rebrand": {
+      "custom": {
+        "text": "Soulful_Rebrand"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button37": {
+      "custom": {
+        "text": "View project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image23": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/HeaderArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image29": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Projects2.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image28": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/HeaderArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button40": {
+      "custom": {
+        "text": "View project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox35": {
+      "custom": {
+        "text": "Datadash Product design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox36": {
+      "custom": {
+        "text": "PRODUCT DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image31": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Projects3.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image30": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/HeaderArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button41": {
+      "custom": {
+        "text": "View project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox37": {
+      "custom": {
+        "text": "Maize Website Design "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox38": {
+      "custom": {
+        "text": "WEB DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image33": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Projects4.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image32": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/HeaderArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button42": {
+      "custom": {
+        "text": "View project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox39": {
+      "custom": {
+        "text": "GorillaX Branding"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox40": {
+      "custom": {
+        "text": "BRANDING"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image35": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Projects5.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image34": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/HeaderArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button43": {
+      "custom": {
+        "text": "View project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox41": {
+      "custom": {
+        "text": "Joggr Website Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox42": {
+      "custom": {
+        "text": "WEB DESIGN"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image36": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/LeftArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image38": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/RightArrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div115": {
+      "callbacks": {}
+    },
+    "TextBox43": {
+      "custom": {
+        "text": "BLOGS"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox44": {
+      "custom": {
+        "text": "Latest Blogs"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox45": {
       "custom": {
         "text": "Your text Here!"
       },
