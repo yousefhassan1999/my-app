@@ -8,7 +8,8 @@
 .TextBox38,
 .TextBox40,
 .TextBox42,
-.TextBox43{
+.TextBox43,
+.TextBox90{
     background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
 }
 .TextBox2,
@@ -19,7 +20,8 @@
 .TextBox38,
 .TextBox40,
 .TextBox42,
-.TextBox43{
+.TextBox43,
+.TextBox90{
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -38,7 +40,8 @@
 .TextBox38,
 .TextBox40,
 .TextBox42,
-.TextBox43{
+.TextBox43,
+.TextBox90{
     letter-spacing: 4px;
 }
 .Flex44{

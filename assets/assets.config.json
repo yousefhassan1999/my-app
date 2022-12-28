@@ -55,5 +55,17 @@
   },
   "white arrow.svg": {
     "mime": "image/svg+xml"
+  },
+  "desgin1.png": {
+    "mime": "image/png"
+  },
+  "desgin2.png": {
+    "mime": "image/png"
+  },
+  "desgin3.png": {
+    "mime": "image/png"
+  },
+  "desgin4.png": {
+    "mime": "image/png"
   }
 }

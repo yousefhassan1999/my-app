@@ -436,7 +436,52 @@ const desktopModeProps = {
     "Flex52": {
       "callbacks": {}
     },
-    "Flex32": {
+    "Flex53": {
+      "callbacks": {}
+    },
+    "Flex57": {
+      "callbacks": {}
+    },
+    "Div155": {
+      "callbacks": {}
+    },
+    "Div157": {
+      "callbacks": {}
+    },
+    "Div158": {
+      "callbacks": {}
+    },
+    "Div156": {
+      "callbacks": {}
+    },
+    "Flex58": {
+      "callbacks": {}
+    },
+    "Div159": {
+      "callbacks": {}
+    },
+    "Div160": {
+      "callbacks": {}
+    },
+    "Flex59": {
+      "callbacks": {}
+    },
+    "Div161": {
+      "callbacks": {}
+    },
+    "Div162": {
+      "callbacks": {}
+    },
+    "Flex54": {
+      "callbacks": {}
+    },
+    "Flex60": {
+      "callbacks": {}
+    },
+    "Flex55": {
+      "callbacks": {}
+    },
+    "Flex56": {
       "callbacks": {}
     },
     "Image1": {
@@ -1721,6 +1766,100 @@ const desktopModeProps = {
           }
         ]
       }
+    },
+    "TextBox90": {
+      "custom": {
+        "text": "PRODUCT DESIGNER"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox91": {
+      "custom": {
+        "text": "That's me!"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox92": {
+      "custom": {
+        "text": "Over the past 12 years, I've worked with a diverse range of clients, from startups to Fortune 500 companies. I love crafting interfaces that delight users and help businesses grow."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image49": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/desgin1.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image50": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/desgin2.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image51": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/desgin3.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image52": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/desgin4.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div163": {
+      "callbacks": {}
+    },
+    "Div164": {
+      "callbacks": {}
     }
   }
 }};
