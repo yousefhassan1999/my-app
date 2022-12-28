@@ -40,7 +40,7 @@ export function updateStoreStateFromController(pageName, newState) {
 const desktopModeProps = {
   ...{
   "Home": {
-    "Div1": {
+    "Main": {
       "callbacks": {}
     },
     "Header": {
@@ -472,7 +472,7 @@ const desktopModeProps = {
     "Div162": {
       "callbacks": {}
     },
-    "Flex54": {
+    "Experiance": {
       "callbacks": {}
     },
     "Flex60": {
@@ -556,10 +556,70 @@ const desktopModeProps = {
     "Div193": {
       "callbacks": {}
     },
-    "Flex55": {
+    "Testominal": {
+      "callbacks": {}
+    },
+    "Flex75": {
+      "callbacks": {}
+    },
+    "Div194": {
+      "callbacks": {}
+    },
+    "Div195": {
+      "callbacks": {}
+    },
+    "Flex76": {
+      "callbacks": {}
+    },
+    "Flex79": {
+      "callbacks": {}
+    },
+    "Flex77": {
+      "callbacks": {}
+    },
+    "Div197": {
+      "callbacks": {}
+    },
+    "Div198": {
+      "callbacks": {}
+    },
+    "Div199": {
+      "callbacks": {}
+    },
+    "Div200": {
+      "callbacks": {}
+    },
+    "Div201": {
       "callbacks": {}
     },
     "Flex56": {
+      "callbacks": {}
+    },
+    "Flex80": {
+      "callbacks": {}
+    },
+    "Div212": {
+      "callbacks": {}
+    },
+    "Div213": {
+      "callbacks": {}
+    },
+    "Flex81": {
+      "callbacks": {}
+    },
+    "Div216": {
+      "callbacks": {}
+    },
+    "Div209": {
+      "callbacks": {}
+    },
+    "Div210": {
+      "callbacks": {}
+    },
+    "Div211": {
+      "callbacks": {}
+    },
+    "Flex74": {
       "callbacks": {}
     },
     "Image1": {
@@ -2281,6 +2341,147 @@ const desktopModeProps = {
     "TextBox124": {
       "custom": {
         "text": "• April 2016 - May 2017"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox125": {
+      "custom": {
+        "text": "TESTIMONIALS"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox126": {
+      "custom": {
+        "text": "Word on the street"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div207": {
+      "callbacks": {}
+    },
+    "Div208": {
+      "callbacks": {}
+    },
+    "Image68": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/p1.jpg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image69": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Comma.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox127": {
+      "custom": {
+        "text": "Jade helped us build a software so intuitive that it didn't need a walkthrough. He solved complex problems with brilliant design."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox128": {
+      "custom": {
+        "text": "John Frankin"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox129": {
+      "custom": {
+        "text": "Founder, Double Bunch"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox135": {
+      "custom": {
+        "text": "What type of projects do you take on?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image72": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/whiteBottomarrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox133": {
+      "custom": {
+        "text": "FAQ"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox134": {
+      "custom": {
+        "text": "Frequently asked questions"
       },
       "callbacks": {
         "onClick": [

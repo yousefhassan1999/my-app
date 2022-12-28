@@ -1,4 +1,4 @@
-.p-Home.Div1 {
+.p-Home.Main {
 max-width: 100vw;
 width: 100%;
 min-height: 100vh;
@@ -912,7 +912,7 @@ width: 100%;
 height: 48.5%;
 max-height: 48.5%;
 }
-.p-Home.Flex54 {
+.p-Home.Experiance {
 display: flex;
 align-items: center;
 justify-content: center;
@@ -941,7 +941,7 @@ margin-bottom: 35px;
 padding-bottom: 40px;
 position: relative;
 border-radius: ;
-border-bottom-color: #e5e5e5;
+border-bottom-color: #e5e5e5ff;
 border-bottom-style: solid;
 border-bottom-width: 1px;
 }
@@ -1075,7 +1075,7 @@ display: inline-block;
 .p-Home.Div193 {
 margin-left: 20px;
 }
-.p-Home.Flex55 {
+.p-Home.Testominal {
 display: flex;
 align-items: center;
 justify-content: center;
@@ -1083,8 +1083,127 @@ width: 100%;
 max-width: ;
 row-gap: ;
 background-color: #ffffff;
+flex-direction: column;
+}
+.p-Home.Flex75 {
+display: flex;
+width: 85%;
+max-width: 1215px;
+flex-direction: column;
+padding-top: 80px;
+align-items: flex-start;
+justify-content: space-between;
+}
+.p-Home.Div194 {
+display: inline-block;
+}
+.p-Home.Div195 {
+margin-top: 20px;
+}
+.p-Home.Flex76 {
+display: flex;
+width: 85%;
+max-width: 1215px;
+align-items: center;
+justify-content: space-between;
+padding-top: 80px;
+padding-bottom: 160px;
+position: relative;
+overflow: hidden;
+}
+.p-Home.Flex79 {
+display: flex;
+align-items: center;
+justify-content: center;
+position: relative;
+}
+.p-Home.Flex77 {
+display: flex;
+width: 100%;
+align-items: flex-end;
+justify-content: space-between;
+min-width: 100%;
+position: relative;
+}
+.p-Home.Div197 {
+position: relative;
+width: 48%;
+max-width: 485px;
+height: 450px;
+border-radius: 8px;
+}
+.p-Home.Div198 {
+width: 48%;
+}
+.p-Home.Div199 {
+width: 45px;
+height: 45px;
+margin-bottom: 33px;
+}
+.p-Home.Div200 {
+font-family: IBM Plex Sans;
+font-size: 36px;
+font-weight: 700;
+line-height: 130%;
+}
+.p-Home.Div201 {
+margin-top: 115px;
 }
 .p-Home.Flex56 {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+max-width: ;
+row-gap: ;
+background-color: #000000;
+flex-direction: column;
+}
+.p-Home.Flex80 {
+display: flex;
+width: 85%;
+max-width: 1215px;
+padding-bottom: 80px;
+align-items: center;
+justify-content: space-between;
+}
+.p-Home.Div212 {
+width: 48%;
+color: #ffffff;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: #ffffff4d;
+}
+.p-Home.Div213 {
+margin-top: 25px;
+padding-bottom: 25px;
+}
+.p-Home.Flex81 {
+display: flex;
+margin-bottom: 25px;
+width: 100%;
+align-items: center;
+justify-content: space-between;
+}
+.p-Home.Div216 {
+width: 24px;
+height: 24px;
+}
+.p-Home.Div209 {
+width: 85%;
+max-width: 1215px;
+padding-top: 80px;
+margin-bottom: 120px;
+align-self: center;
+text-align: center;
+}
+.p-Home.Div210 {
+display: inline-block;
+}
+.p-Home.Div211 {
+margin-top: 20px;
+}
+.p-Home.Flex74 {
 display: flex;
 align-items: center;
 justify-content: center;
@@ -2297,4 +2416,76 @@ line-height: 130%;
 font-weight: 600;
 background-color: #ffffff;
 color: #00000099;
+}
+.p-Home.TextBox125 {
+font-family: IBM Plex Sans;
+font-size: 22px;
+font-weight: 700;
+line-height: 100%;
+}
+.p-Home.TextBox126 {
+font-family: IBM Plex Sans;
+font-size: 54px;
+font-weight: 700;
+line-height: 110%;
+}
+.p-Home.Div207 {
+position: absolute;
+bottom: 0;
+}
+.p-Home.Div208 {
+position: absolute;
+bottom: 0;
+right: 0;
+}
+.p-Home.Image68 {
+width: 100%;
+height: 100%;
+}
+.p-Home.Image69 {
+width: 100%;
+height: 100%;
+max-width: 100%;
+}
+.p-Home.TextBox127 {
+;
+}
+.p-Home.TextBox128 {
+margin-bottom: 8px;
+font-family: IBM Plex Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 100%;
+}
+.p-Home.TextBox129 {
+font-family: IBM Plex Sans;
+font-size: 18px;
+font-weight: 500;
+line-height: 100%;
+}
+.p-Home.TextBox135 {
+font-family: IBM Plex Sans;
+font-size: 24px;
+line-height: 130%;
+font-weight: 500;
+}
+.p-Home.Image72 {
+width: 100%;
+height: 100%;
+}
+.p-Home.TextBox133 {
+color: #ffffff;
+text-align: center;
+font-family: IBM Plex Sans;
+font-size: 22px;
+font-weight: 700;
+line-height: 100%;
+}
+.p-Home.TextBox134 {
+color: #ffffff;
+text-align: center;
+font-family: IBM Plex Sans;
+font-size: 54px;
+font-weight: 700;
+line-height: 110%;
 }
