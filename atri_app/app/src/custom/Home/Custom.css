@@ -44,3 +44,11 @@
 .Flex44{
     right: 5%;
 }
+
+.Div119,
+.Div133,
+.Div139,
+.Div145,
+.Div151{
+    border-bottom: 1px solid hsla(0, 0%, 100%, 0.3);
+}

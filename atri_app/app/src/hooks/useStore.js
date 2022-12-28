@@ -334,7 +334,106 @@ const desktopModeProps = {
     "Div117": {
       "callbacks": {}
     },
+    "Div154": {
+      "callbacks": {}
+    },
     "Div118": {
+      "callbacks": {}
+    },
+    "Div152": {
+      "callbacks": {}
+    },
+    "Div115": {
+      "callbacks": {}
+    },
+    "Div119": {
+      "callbacks": {}
+    },
+    "Flex47": {
+      "callbacks": {}
+    },
+    "Div122": {
+      "callbacks": {}
+    },
+    "Div123": {
+      "callbacks": {}
+    },
+    "Div124": {
+      "callbacks": {}
+    },
+    "Div127": {
+      "callbacks": {}
+    },
+    "Div133": {
+      "callbacks": {}
+    },
+    "Div131": {
+      "callbacks": {}
+    },
+    "Div132": {
+      "callbacks": {}
+    },
+    "Div128": {
+      "callbacks": {}
+    },
+    "Div129": {
+      "callbacks": {}
+    },
+    "Flex49": {
+      "callbacks": {}
+    },
+    "Div139": {
+      "callbacks": {}
+    },
+    "Div137": {
+      "callbacks": {}
+    },
+    "Div138": {
+      "callbacks": {}
+    },
+    "Div134": {
+      "callbacks": {}
+    },
+    "Div135": {
+      "callbacks": {}
+    },
+    "Flex50": {
+      "callbacks": {}
+    },
+    "Div145": {
+      "callbacks": {}
+    },
+    "Div143": {
+      "callbacks": {}
+    },
+    "Div144": {
+      "callbacks": {}
+    },
+    "Div140": {
+      "callbacks": {}
+    },
+    "Div141": {
+      "callbacks": {}
+    },
+    "Flex51": {
+      "callbacks": {}
+    },
+    "Div151": {
+      "callbacks": {}
+    },
+    "Div149": {
+      "callbacks": {}
+    },
+    "Div150": {
+      "callbacks": {}
+    },
+    "Div146": {
+      "callbacks": {}
+    },
+    "Div147": {
+      "callbacks": {}
+    },
+    "Flex52": {
       "callbacks": {}
     },
     "Flex32": {
@@ -1254,9 +1353,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Div115": {
-      "callbacks": {}
-    },
     "TextBox43": {
       "custom": {
         "text": "BLOGS"
@@ -1283,7 +1379,340 @@ const desktopModeProps = {
     },
     "TextBox45": {
       "custom": {
-        "text": "Your text Here!"
+        "text": "View all"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image48": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/white%20arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox46": {
+      "custom": {
+        "text": "April 16, 2021"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div120": {
+      "callbacks": {}
+    },
+    "TextBox47": {
+      "custom": {
+        "text": "6 mins"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image40": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/white%20arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox51": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox48": {
+      "custom": {
+        "text": "Design tips for designers, that cover everything you need"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox54": {
+      "custom": {
+        "text": "How to build rapport with your web design clients"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox53": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image43": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/white%20arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox55": {
+      "custom": {
+        "text": "5 mins"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div130": {
+      "callbacks": {}
+    },
+    "TextBox56": {
+      "custom": {
+        "text": "April 16, 2021"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox58": {
+      "custom": {
+        "text": "Top 6 free website mockup tools 2021"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox57": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image44": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/white%20arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox59": {
+      "custom": {
+        "text": "5 mins"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div136": {
+      "callbacks": {}
+    },
+    "TextBox60": {
+      "custom": {
+        "text": "April 16, 2021"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox62": {
+      "custom": {
+        "text": "Logo design trends to avoid in 2021"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox61": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image45": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/white%20arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox63": {
+      "custom": {
+        "text": "7 mins"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div142": {
+      "callbacks": {}
+    },
+    "TextBox64": {
+      "custom": {
+        "text": "April 16, 2021"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox66": {
+      "custom": {
+        "text": "22 best UI design tools"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox65": {
+      "custom": {
+        "text": "Read the article"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image46": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/white%20arrow.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox67": {
+      "custom": {
+        "text": "7 mins"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Div148": {
+      "callbacks": {}
+    },
+    "TextBox68": {
+      "custom": {
+        "text": "April 16, 2021"
       },
       "callbacks": {
         "onClick": [
