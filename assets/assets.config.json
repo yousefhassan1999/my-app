@@ -88,5 +88,11 @@
   },
   "whiteBottomarrow.svg": {
     "mime": "image/svg+xml"
+  },
+  "Footer1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "footermail.svg": {
+    "mime": "image/svg+xml"
   }
 }

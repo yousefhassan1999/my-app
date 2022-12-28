@@ -1,54 +1,22 @@
-.TextBox2,
-.Button29,
-.Button36,
-.TextBox25,
-.TextBox26,
-.BRANDING,
-.TextBox36,
-.TextBox38,
-.TextBox40,
-.TextBox42,
-.TextBox43,
-.TextBox90,
-.TextBox125,
-.TextBox133{
+.TextBox2,.Button29,.Button36,.TextBox25,.TextBox26,.BRANDING,.TextBox36,.TextBox38,.TextBox40,.TextBox42,.TextBox43,
+.TextBox90,.TextBox125,.TextBox133,.Link2{
     background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
 }
-.TextBox2,
-.TextBox25,
-.TextBox26,
-.BRANDING,
-.TextBox36,
-.TextBox38,
-.TextBox40,
-.TextBox42,
-.TextBox43,
-.TextBox90,
-.TextBox125,
-.TextBox133{
+.TextBox2,.TextBox25,.TextBox26,.BRANDING,.TextBox36,.TextBox38,.TextBox40,.TextBox42,.TextBox43,.TextBox90,.TextBox125,.TextBox133,.Link2{
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-.TextBox3,
-.TextBox2{
+.TextBox3,.TextBox2{
     letter-spacing: -2px;
 }
-.TextBox27,
-.TextBox28{
+.TextBox27,.TextBox28,.TextBox162{
     letter-spacing: 1px;
 }
-.TextBox25,
-.TextBox26,
-.BRANDING,
-.TextBox36,
-.TextBox38,
-.TextBox40,
-.TextBox42,
-.TextBox43,
-.TextBox90,
-.TextBox125,
-.TextBox133{
+.TextBox25,.TextBox26,.BRANDING,.TextBox36,.TextBox38,.TextBox40,.TextBox42,.TextBox43,.TextBox90,.TextBox125,.TextBox133{
     letter-spacing: 4px;
+}
+.Link2{
+    letter-spacing: 0.5px;
 }
 .Flex44{
     right: 5%;
@@ -56,16 +24,13 @@
 .Div207{
     right: 4%;
 }
-
-.Div119,
-.Div133,
-.Div139,
-.Div145,
-.Div151{
+.Div119,.Div133,.Div139,.Div145,.Div151{
     border-bottom: 1px solid hsla(0, 0%, 100%, 0.3);
 }
-
 .Div197{
     filter: saturate(0%);
     -webkit-filter: saturate(0%);
+}
+a{
+    text-decoration: none;
 }
