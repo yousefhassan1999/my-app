@@ -436,7 +436,7 @@ const desktopModeProps = {
     "Flex52": {
       "callbacks": {}
     },
-    "Flex53": {
+    "Product_design": {
       "callbacks": {}
     },
     "Flex57": {
@@ -476,6 +476,84 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex60": {
+      "callbacks": {}
+    },
+    "Div163": {
+      "callbacks": {}
+    },
+    "Flex61": {
+      "callbacks": {}
+    },
+    "Div165": {
+      "callbacks": {}
+    },
+    "Div166": {
+      "callbacks": {}
+    },
+    "Flex62": {
+      "callbacks": {}
+    },
+    "Div167": {
+      "callbacks": {}
+    },
+    "Div168": {
+      "callbacks": {}
+    },
+    "Flex63": {
+      "callbacks": {}
+    },
+    "Div169": {
+      "callbacks": {}
+    },
+    "Div170": {
+      "callbacks": {}
+    },
+    "Div177": {
+      "callbacks": {}
+    },
+    "Flex66": {
+      "callbacks": {}
+    },
+    "Div175": {
+      "callbacks": {}
+    },
+    "Flex69": {
+      "callbacks": {}
+    },
+    "Div176": {
+      "callbacks": {}
+    },
+    "Div179": {
+      "callbacks": {}
+    },
+    "Flex71": {
+      "callbacks": {}
+    },
+    "Flex70": {
+      "callbacks": {}
+    },
+    "Div188": {
+      "callbacks": {}
+    },
+    "Div189": {
+      "callbacks": {}
+    },
+    "Div190": {
+      "callbacks": {}
+    },
+    "Flex73": {
+      "callbacks": {}
+    },
+    "Flex72": {
+      "callbacks": {}
+    },
+    "Div191": {
+      "callbacks": {}
+    },
+    "Div192": {
+      "callbacks": {}
+    },
+    "Div193": {
       "callbacks": {}
     },
     "Flex55": {
@@ -1855,11 +1933,362 @@ const desktopModeProps = {
         ]
       }
     },
-    "Div163": {
-      "callbacks": {}
+    "TextBox93": {
+      "custom": {
+        "text": "📚  Education"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
     },
-    "Div164": {
-      "callbacks": {}
+    "Image53": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Arrow%205.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox94": {
+      "custom": {
+        "text": "Stanford University"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox95": {
+      "custom": {
+        "text": "MSc (Human Computer Interaction)"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox96": {
+      "custom": {
+        "text": "• 2013-2015"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image54": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Arrow%205.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox97": {
+      "custom": {
+        "text": "• 2013-2014"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox98": {
+      "custom": {
+        "text": "UX Training Bootcamp"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox99": {
+      "custom": {
+        "text": "MIT Summer School"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image55": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Arrow%205.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox100": {
+      "custom": {
+        "text": "• 2009-2012"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox101": {
+      "custom": {
+        "text": "BSc in Software Engineering"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox102": {
+      "custom": {
+        "text": "California State University"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox112": {
+      "custom": {
+        "text": "💼  Work Experience"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image58": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Arrow%205.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox109": {
+      "custom": {
+        "text": "• April 2019 - Current"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox110": {
+      "custom": {
+        "text": "Senior Product Designer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox111": {
+      "custom": {
+        "text": "SpaceFleet"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image59": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/WorkkE1.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image65": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Arrow%205.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image64": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/WorkkE2.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox119": {
+      "custom": {
+        "text": "MusicMash"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox120": {
+      "custom": {
+        "text": "Information Architect"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox121": {
+      "custom": {
+        "text": "• April 2016 - May 2017"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image67": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Arrow%205.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image66": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/WorkkE3.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox122": {
+      "custom": {
+        "text": "Kingdom"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox123": {
+      "custom": {
+        "text": "UI Designer"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox124": {
+      "custom": {
+        "text": "• April 2016 - May 2017"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
     }
   }
 }};
