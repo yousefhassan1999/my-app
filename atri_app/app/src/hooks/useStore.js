@@ -592,6 +592,36 @@ const desktopModeProps = {
     "Div201": {
       "callbacks": {}
     },
+    "Flex106": {
+      "callbacks": {}
+    },
+    "Div208": {
+      "callbacks": {}
+    },
+    "Flex107": {
+      "callbacks": {}
+    },
+    "Div207": {
+      "callbacks": {}
+    },
+    "Flex109": {
+      "callbacks": {}
+    },
+    "Div278": {
+      "callbacks": {}
+    },
+    "Div275": {
+      "callbacks": {}
+    },
+    "Div276": {
+      "callbacks": {}
+    },
+    "Div277": {
+      "callbacks": {}
+    },
+    "Div279": {
+      "callbacks": {}
+    },
     "FAQ": {
       "callbacks": {}
     },
@@ -2524,12 +2554,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Div207": {
-      "callbacks": {}
-    },
-    "Div208": {
-      "callbacks": {}
-    },
     "Image68": {
       "custom": {
         "alt": "No preview available",
@@ -2583,6 +2607,94 @@ const desktopModeProps = {
     "TextBox129": {
       "custom": {
         "text": "Founder, Double Bunch"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image88": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/CwhiteArrow1.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image87": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/CwhiteArrow2.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox189": {
+      "custom": {
+        "text": "Project Manager@ Microsoft"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox190": {
+      "custom": {
+        "text": "Jennifer Musk"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox191": {
+      "custom": {
+        "text": "This is unbelievable. After using Testiminial Generator my buisness skyrocketed!"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image91": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Comma.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image92": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/slider2.png"
       },
       "callbacks": {
         "onClick": [

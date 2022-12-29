@@ -94,5 +94,14 @@
   },
   "footermail.svg": {
     "mime": "image/svg+xml"
+  },
+  "CwhiteArrow2.svg": {
+    "mime": "image/svg+xml"
+  },
+  "CwhiteArrow1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "slider2.png": {
+    "mime": "image/png"
   }
 }

@@ -21,13 +21,17 @@
 .Flex44{
     right: 5%;
 }
+.Flex107{
+    right: 4%;
+}
 .Div207{
     right: 4%;
 }
 .Div119,.Div133,.Div139,.Div145,.Div151{
     border-bottom: 1px solid hsla(0, 0%, 100%, 0.3);
 }
-.Div197{
+.Div197,
+.Div279{
     filter: saturate(0%);
     -webkit-filter: saturate(0%);
 }
