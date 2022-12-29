@@ -162435,5 +162435,71 @@
       }
     },
     "id": "81c878fe-5c82-48a6-8b49-b9cb5719d772"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontWeight": 600
+        }
+      }
+    },
+    "id": "0541e2cb-62c1-42ca-b815-f1dbcd43790a"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontWeight": 600
+        }
+      }
+    },
+    "id": "b6e1a354-17c0-4326-88bc-3d91ce451cbd"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontWeight": 600
+        }
+      }
+    },
+    "id": "c461b6cd-536c-4bbc-b4c1-20244bc6f6e3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontWeight": 600
+        }
+      }
+    },
+    "id": "c942219f-892a-4b1a-b6bb-d2bb3fa676b2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontWeight": 600
+        }
+      }
+    },
+    "id": "938f678e-6cb6-469d-9ce1-87e5492003ea"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "fontWeight": 600
+        }
+      }
+    },
+    "id": "b64634a1-4738-4200-9d48-fbfaf518d5ae"
   }
 ]
