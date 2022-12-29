@@ -724,6 +724,30 @@ const desktopModeProps = {
     "Div255": {
       "callbacks": {}
     },
+    "Div262": {
+      "callbacks": {}
+    },
+    "Div263": {
+      "callbacks": {}
+    },
+    "Div264": {
+      "callbacks": {}
+    },
+    "Div265": {
+      "callbacks": {}
+    },
+    "Div266": {
+      "callbacks": {}
+    },
+    "Div267": {
+      "callbacks": {}
+    },
+    "Div268": {
+      "callbacks": {}
+    },
+    "Div269": {
+      "callbacks": {}
+    },
     "Flex93": {
       "callbacks": {}
     },
@@ -2937,9 +2961,93 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox165": {
+    "TextBox178": {
       "custom": {
-        "text": "Your text Here!"
+        "text": "© All rights reserved.   "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox179": {
+      "custom": {
+        "text": " Conversionflow"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox180": {
+      "custom": {
+        "text": ". Powered by "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox181": {
+      "custom": {
+        "text": "Webflow / "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox182": {
+      "custom": {
+        "text": "Image License Info / "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox183": {
+      "custom": {
+        "text": "Instructions / "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox184": {
+      "custom": {
+        "text": "Changelog / "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox185": {
+      "custom": {
+        "text": "Style Guide"
       },
       "callbacks": {
         "onClick": [

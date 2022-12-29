@@ -1436,6 +1436,53 @@ display: inline-block;
 }
 .p-Home.Div255 {
 margin-top: 150px;
+display: block;
+width: 100%;
+font-family: IBM Plex Sans;
+color: #8a95adff;
+font-weight: 600;
+line-height: 140%;
+font-size: 16px;
+}
+.p-Home.Div262 {
+margin-top: 150px;
+display: inline-block;
+width: px;
+}
+.p-Home.Div263 {
+margin-top: 150px;
+display: inline-block;
+width: px;
+}
+.p-Home.Div264 {
+margin-top: 150px;
+display: inline-block;
+width: px;
+}
+.p-Home.Div265 {
+margin-top: 150px;
+display: inline-block;
+width: px;
+}
+.p-Home.Div266 {
+margin-top: 150px;
+display: inline-block;
+width: px;
+}
+.p-Home.Div267 {
+margin-top: 150px;
+display: inline-block;
+width: px;
+}
+.p-Home.Div268 {
+margin-top: 150px;
+display: inline-block;
+width: px;
+}
+.p-Home.Div269 {
+margin-top: 150px;
+display: inline-block;
+width: px;
 }
 .p-Home.Flex93 {
 display: flex;
@@ -2914,8 +2961,29 @@ font-size: 54px;
 font-weight: 700;
 line-height: 110%;
 }
-.p-Home.TextBox165 {
+.p-Home.TextBox178 {
 ;
+}
+.p-Home.TextBox179 {
+cursor: pointer;
+}
+.p-Home.TextBox180 {
+;
+}
+.p-Home.TextBox181 {
+cursor: pointer;
+}
+.p-Home.TextBox182 {
+cursor: pointer;
+}
+.p-Home.TextBox183 {
+cursor: pointer;
+}
+.p-Home.TextBox184 {
+cursor: pointer;
+}
+.p-Home.TextBox185 {
+cursor: pointer;
 }
 .p-Home.TextBox163 {
 font-family: IBM Plex Sans;
@@ -2948,6 +3016,7 @@ font-family: IBM Plex Sans;
 font-size: 18px;
 font-weight: 600;
 line-height: 100%;
+cursor: pointer;
 }
 .p-Home.TextBox168 {
 width: 100px;
@@ -2955,6 +3024,7 @@ font-family: IBM Plex Sans;
 font-size: 18px;
 font-weight: 600;
 line-height: 100%;
+cursor: pointer;
 }
 .p-Home.TextBox169 {
 width: 100px;
@@ -2962,6 +3032,7 @@ font-family: IBM Plex Sans;
 font-size: 18px;
 font-weight: 600;
 line-height: 100%;
+cursor: pointer;
 }
 .p-Home.TextBox170 {
 width: 100px;
@@ -2969,6 +3040,7 @@ font-family: IBM Plex Sans;
 font-size: 18px;
 font-weight: 600;
 line-height: 100%;
+cursor: pointer;
 }
 .p-Home.TextBox171 {
 width: 100px;
@@ -2976,6 +3048,7 @@ font-family: IBM Plex Sans;
 font-size: 18px;
 font-weight: 600;
 line-height: 100%;
+cursor: pointer;
 }
 .p-Home.TextBox172 {
 width: 100px;
@@ -2983,6 +3056,7 @@ font-family: IBM Plex Sans;
 font-size: 18px;
 font-weight: 600;
 line-height: 100%;
+cursor: pointer;
 }
 .p-Home.TextBox173 {
 width: 100px;
@@ -2990,6 +3064,7 @@ font-family: IBM Plex Sans;
 font-size: 18px;
 font-weight: 600;
 line-height: 100%;
+cursor: pointer;
 }
 .p-Home.TextBox174 {
 width: 100px;
@@ -2997,6 +3072,7 @@ font-family: IBM Plex Sans;
 font-size: 18px;
 font-weight: 600;
 line-height: 100%;
+cursor: pointer;
 }
 .p-Home.TextBox175 {
 width: 100px;
@@ -3004,4 +3080,5 @@ font-family: IBM Plex Sans;
 font-size: 18px;
 font-weight: 600;
 line-height: 100%;
+cursor: pointer;
 }
