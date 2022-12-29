@@ -7,7 +7,7 @@ color: ;
 display: block;
 visibility: visible;
 box-sizing: border-box;
-overflow: hidden;
+overflow: visible;
 position: relative;
 }
 .p-Home.Header {
@@ -1655,6 +1655,7 @@ border-radius: 3px;
 border-width: 1px;
 border-style: ;
 border-color: transparent;
+cursor: pointer;
 }
 .p-Home.Image1 {
 width: 100%;
