@@ -6468,8 +6468,8 @@ export function useImage94Cb() {
 }), [])
 	return { onClick }
 }
-export function useFlex110Cb() {
-	const onClick = useCallback(callbackFactory("Flex110", "Home", "/", "onClick", 
+export function useFixedLinkCb() {
+	const onClick = useCallback(callbackFactory("FixedLink", "Home", "/", "onClick", 
 			{
   "handlers": [],
   "actions": [

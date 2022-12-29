@@ -802,7 +802,7 @@ const desktopModeProps = {
     "Flex104": {
       "callbacks": {}
     },
-    "Flex110": {
+    "FixedLink": {
       "callbacks": {}
     },
     "Image1": {
@@ -3078,7 +3078,7 @@ const desktopModeProps = {
     },
     "TextBox178": {
       "custom": {
-        "text": "© All rights reserved.   "
+        "text": "© All rights reserved. "
       },
       "callbacks": {
         "onClick": [
