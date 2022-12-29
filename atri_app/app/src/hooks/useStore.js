@@ -802,6 +802,9 @@ const desktopModeProps = {
     "Flex104": {
       "callbacks": {}
     },
+    "Flex110": {
+      "callbacks": {}
+    },
     "Image1": {
       "custom": {
         "alt": "No preview available",
@@ -3318,6 +3321,32 @@ const desktopModeProps = {
     "TextBox175": {
       "custom": {
         "text": "Twitter"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image93": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/static1.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image94": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/static2.svg"
       },
       "callbacks": {
         "onClick": [

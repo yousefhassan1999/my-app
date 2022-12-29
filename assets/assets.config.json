@@ -103,5 +103,11 @@
   },
   "slider2.png": {
     "mime": "image/png"
+  },
+  "static1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "static2.svg": {
+    "mime": "image/svg+xml"
   }
 }

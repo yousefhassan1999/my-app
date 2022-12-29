@@ -38,3 +38,6 @@
 a{
     text-decoration: none;
 }
+.Flex110{
+    box-shadow: 0 0 0 1px rgb(0 0 0 / 10%), 0 1px 3px rgb(0 0 0 / 10%);
+}
